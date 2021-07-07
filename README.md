@@ -1,6 +1,6 @@
 # Converting VGG Image Annotator [(VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) json to [COCO](https://cocodataset.org/#home) json format
 
-VIA is an image tool for visualizing and editiing object detection datasets. It allows the user to determine quality of annotations to verify the integrity of a dataset. It gives users the ability to edit or remove incorrect or malformed annotations. The user can also create new annotations to increase the size of the dataset.
+VIA is an image tool for visualizing and editiing object detection datasets.
 
 VGG created this tool to be used with their VIA formatted object detection annotations. I create the program converting the VIA format to Microsoft's Common Objects in Context([COCO](http://cocodataset.org/#home)) format.
 
