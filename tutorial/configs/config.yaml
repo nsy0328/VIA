@@ -1,0 +1,7 @@
+supercategories:
+  ["Bottles", "Cans", "PET bottles", "Papers", "Plastic", "Plastic Bag"]
+names:
+  # {supercategory:name, ...}
+  {"Bottles":"Bottles", "Cans":"Cans", "PET bottles":"PET bottles", "Papers":"Papers", "Plastic":"Plastic", "Plastic Bag":"Plastic Bag"}
+region_attributes:
+  ["supercategory","name"]
